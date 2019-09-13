@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Guardian Structural Technologies
+subtitle: Build your next project quickly using Guardian panels
 image: /img/ima-about.png
 blurb:
   heading: Why Choose Guardian?
